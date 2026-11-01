@@ -17,7 +17,7 @@ import { TripProvider, useTrip } from "./context/TripContext";
 
 import { destinations } from "./data/destinations";
 
-import Sidebar from "./components/sidebar";
+import Sidebar from "./components/Sidebar";
 import Header from "./components/Header";
 import DestinationCard from "./components/DestinationCard";
 import MapPanel from "./components/MapPanel";
